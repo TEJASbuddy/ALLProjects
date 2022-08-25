@@ -1,5 +1,9 @@
 # FAKE NEWS DETECTION USING MACHINE LEARNING
+
   Project Prerequisites
+  
+You have to take sample Data to check the code and then you can integrate and Database you want whether it can be of Twitter, FaceBook, BBC news or Google.
+
 You’ll need to install the following libraries with pip:
 
 pip install numpy pandas sklearn
